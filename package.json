@@ -1,0 +1,26 @@
+{
+  "name": "pesquisaElas-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maria-luiza-duda/pesquisaElas-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maria-luiza-duda/pesquisaElas-project/issues"
+  },
+  "homepage": "https://github.com/maria-luiza-duda/pesquisaElas-project#readme"
+}
